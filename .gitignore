@@ -1,0 +1,9 @@
+.idea
+build
+out
+cache
+.DS_Store
+*.iml
+/src/main/generated/
+/src/test/generated/
+/logs/g
